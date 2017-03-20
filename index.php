@@ -1,5 +1,4 @@
 
 <?php
-$a = array(1,2,3);
-$b = array(1,2,3);
+$a = 'hello';
 $c = 12;
